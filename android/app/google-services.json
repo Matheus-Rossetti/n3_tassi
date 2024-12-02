@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1014089658721",
+    "project_id": "n3-tassi",
+    "storage_bucket": "n3-tassi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014089658721:android:e6a070700a247c27f6d520",
+        "android_client_info": {
+          "package_name": "com.example.n3_tassi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014089658721-vuamgbsedqr1ld6hl95gvpg9rp46gf4o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.n3_tassi",
+            "certificate_hash": "636adbe7d575352531ed3b5853d4038d8653a67e"
+          }
+        },
+        {
+          "client_id": "1014089658721-lg2bsjvfs8p0vn70o44pu8hjn2rj23po.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnpGXU-ZMGayD-n-qFgqYEzeBpE76FRYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014089658721-lg2bsjvfs8p0vn70o44pu8hjn2rj23po.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
